@@ -1,0 +1,11 @@
+{
+    "endpoints":{
+        "/menu":"This returns all the menu for all weeks and times of the day.",
+        "queries":{
+            "type":"Specify the type of food you have, South Veg, North Veg, North Non-Veg, South Non-Veg",
+            "week":"odd or even",
+            "day": "Enter the day for which you want to get the menu, enter in captialised form.",
+            "time":"Time of the day, Breakfast, Lunch, Dinner."
+        }
+    }
+}
