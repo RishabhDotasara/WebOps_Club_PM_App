@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Back to 0",
+    "dateUploaded": "27 Apr 2024",
+    "desc": "Story of how my company almost died 6 times before things working out a little bit\n\nOh! I actually redirected this entire blog to our Company's blog traffic to drive",
+    "contentLink": "https://blog.ankitsanghvi.in/back-to-0/"
+  },
+  {
+    "title": "How I learnt to do sales, starting out as a coder",
+    "dateUploaded": "3 Mar 2024",
+    "desc": "Breaking some personal barriers to actually be good at telling the world about the problem we're solving and the product we're building",
+    "contentLink": "https://blog.ankitsanghvi.in/how-i-learnt-to-do-sales-despite-being-a-coder/"
+  },
+  {
+    "title": "Baking customer obsession into everyday decisions",
+    "dateUploaded": "15 Jan 2024",
+    "desc": "Simple ways you can turn your project into a customer-centric product.",
+    "contentLink": "https://blog.ankitsanghvi.in/customer-obsession/"
+  },
+  {
+    "title": "Social Capital",
+    "dateUploaded": "21 Dec 2023",
+    "desc": "Superfast read on 6 ways to get more people to like you and make them strong connections.",
+    "contentLink": "https://blog.ankitsanghvi.in/social-capital/"
+  },
+  {
+    "title": "Interactive VR app 101",
+    "dateUploaded": "18 Dec 2023",
+    "desc": "Building a real-world interviewer who gives good feedback",
+    "contentLink": "https://blog.ankitsanghvi.in/interactive-vr-app-101/"
+  },
+  {
+    "title": "The state of sales in 2023",
+    "dateUploaded": "17 Nov 2023",
+    "desc": "The current approach, tools and terminology, key insights, challenges and opportunities available in the sales domain",
+    "contentLink": "https://blog.ankitsanghvi.in/an-intro-to-sales-in-2023/"
+  },
+  {
+    "title": "Maximizing LLM performance",
+    "dateUploaded": "7 Nov 2023",
+    "desc": "Short excerpt on how LLMs can be pushed from prototype to performance in a scalable way",
+    "contentLink": "https://blog.ankitsanghvi.in/maximizing-llm-performace/"
+  },
+  {
+    "title": "BuildSchool - bet on student projects",
+    "dateUploaded": "3 Nov 2023",
+    "desc": "How to inspire students to take a bet on themselves and build something 0 to 1",
+    "contentLink": "https://blog.ankitsanghvi.in/buildschool/"
+  },
+  {
+    "title": "HuggingSage",
+    "dateUploaded": "22 Oct 2023",
+    "desc": "Using Amazon Sagemaker to deploy whichever Hugging Face models you want, along with API inference",
+    "contentLink": "https://blog.ankitsanghvi.in/hugging-sage/"
+  },
+  {
+    "title": "Can VR revolutionize education?",
+    "dateUploaded": "4 Oct 2023",
+    "desc": "A case study on how simulated environments in VR can be used to track the implicit learning experiences",
+    "contentLink": "https://blog.ankitsanghvi.in/can-vr-revolutionize-education/"
+  },
+  {
+    "title": "Escaping your mind, into unimaginable futures",
+    "dateUploaded": "4 Oct 2023",
+    "desc": "Understanding basics of futurecasting and learning from examples of people who did it wrong.",
+    "contentLink": "https://blog.ankitsanghvi.in/escaping-the-mental-map/"
+  },
+  {
+    "title": "Impact of Technology on Employability and Wealth",
+    "dateUploaded": "2 Sep 2023",
+    "desc": "Understanding what the future of work and employment could be like, given advancements in tech",
+    "contentLink": "https://blog.ankitsanghvi.in/impact-of-tech-on-wealth/"
+  },
+  {
+    "title": "Switching streams midway",
+    "dateUploaded": "16 Aug 2023",
+    "desc": "I did my undergraduate in Civil Engineering and pursued my career in software. This blog would be the story and the specifics of what a lot of people have asked",
+    "contentLink": "https://blog.ankitsanghvi.in/switching-streams-midway/"
+  },
+  {
+    "title": "Technology and India - 1970 vs 2023",
+    "dateUploaded": "9 Aug 2023",
+    "desc": "A very small mental snapshot of what my undegrad college (IIT Madras) felt like when I graduated",
+    "contentLink": "https://blog.ankitsanghvi.in/1970-2023/"
+  },
+  {
+    "title": "Ole ole Alakananda",
+    "dateUploaded": "27 Jul 2023",
+    "desc": "Going from failed standup comedy and jugaading expenses to growing up and finding passion",
+    "contentLink": "https://blog.ankitsanghvi.in/ole-ole-alakananda/"
+  },
+  {
+    "title": "The One-size-fits-all ML-project template?",
+    "dateUploaded": "7 Jul 2023",
+    "desc": "A problem, framework, budget, library, language agnostic approach to ML",
+    "contentLink": "https://blog.ankitsanghvi.in/templatising-the-ml-modelling-experience/"
+  },
+  {
+    "title": "Getting started with Serverless, AWS Lambda and SAM on MacOS",
+    "dateUploaded": "5 Jul 2023",
+    "desc": "Discover how to leverage the AWS Serverless Framework and AWS SAM for efficient, cost-effective cloud computing. This guide walks through the setup on MacOS, from installing necessary tools to deploying and managing serverless applications.",
+    "contentLink": "https://blog.ankitsanghvi.in/getting-started-with-serverless-lambda-macos/"
+  },
+  {
+    "title": "A year of driving tech @ IITM",
+    "dateUploaded": "15 Jun 2023",
+    "desc": "A journey of impacting 2000+ students in 365 days, 40+ projects, a 20 member insane team and 1 fricking vision",
+    "contentLink": "https://blog.ankitsanghvi.in/techsoc-head/"
+  },
+  {
+    "title": "RAG-ging like a boss with AI",
+    "dateUploaded": "16 May 2023",
+    "desc": "How we indexed all of AWS, GCP and Azure blogs to build a powerful AI Copilot for cloud engineers",
+    "contentLink": "https://blog.ankitsanghvi.in/building-cloudpilot-with-retrieval-augmented-generation/"
+  },
+  {
+    "title": "Coursepanel: My 1st startup",
+    "dateUploaded": "31 Mar 2023",
+    "desc": "What I innovated and struggled as I tried to build my 1st software business",
+    "contentLink": "https://blog.ankitsanghvi.in/coursegpt/"
+  },
+  {
+    "title": "Problem to Product",
+    "dateUploaded": "27 Feb 2023",
+    "desc": "A summary of my learnings from \"The Lean Product Playbook\" - of moving from problem to product",
+    "contentLink": "https://blog.ankitsanghvi.in/problem-to-product/"
+  },
+  {
+    "title": "Hello OKRs",
+    "dateUploaded": "13 Jan 2023",
+    "desc": "💡If you don't know where you're going, you might not get there\n\nObjective Key-Result (OKR) is a framework of approaching a goal/project that ensures that you and your team",
+    "contentLink": "https://blog.ankitsanghvi.in/hello-okrs/"
+  },
+  {
+    "title": "Learning from Unusual Billionaires",
+    "dateUploaded": "15 Dec 2022",
+    "desc": "Learning from 7 unconventional stories - how a lasting, profitable business is to be built",
+    "contentLink": "https://blog.ankitsanghvi.in/learning-from-unusual-billionaires/"
+  },
+  {
+    "title": "Twitter 2.0 at the Back of an Envelope",
+    "dateUploaded": "1 Dec 2022",
+    "desc": "Let's understand how we can do back of the envelope calculations, and view the Twitter's engineering challenges from the eyes of its decision makers.",
+    "contentLink": "https://blog.ankitsanghvi.in/back-of-the-envelope-calculations-at-twitter-2-0/"
+  },
+  {
+    "title": "What's a tensor & why is it in ML?",
+    "dateUploaded": "18 Nov 2022",
+    "desc": "A beginners introduction to tensors & every stupid jargon people throw around them",
+    "contentLink": "https://blog.ankitsanghvi.in/intro-to-tensor/"
+  }
+]
