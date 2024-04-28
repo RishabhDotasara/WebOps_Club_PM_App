@@ -10,6 +10,7 @@ const navigate = "navigate.json"
 let menu;
 let navigation;
 
+
 fs.readFile(filepath, "utf-8", (err, data) => {
   if (err) {
     console.log("Error loading the data.");
